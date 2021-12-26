@@ -16,3 +16,7 @@
     1. https://anime-top.vercel.app/
     2. https://tesla-clones.herokuapp.com/#
     3. https://react-pizza-rouber.herokuapp.com/
+7. Education:
+    1. _2020-2024_ **Vitebsk State Technological University Extramural Faculty, Information Systems and Technology.** _Software engineer_
+    2. _2017-2020_ **Vitebsk State Technical College Computing machines, systems and networks.** _Technician_ 
+8. English Level: **Pre Intermediate (А2)**
